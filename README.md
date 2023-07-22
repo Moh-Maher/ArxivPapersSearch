@@ -58,7 +58,3 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 For any questions or feedback, feel free to contact me at mohammed.maher@unical.it.
 ```
-
-Replace `yourusername` in the installation steps with your GitHub username. Customize the content with your project's specific details and additional acknowledgments or credits as needed.
-
-The README file serves as documentation for your project on GitHub and helps users understand how to use and contribute to your project. Keep it up-to-date and informative to make it easier for others to collaborate and use your project.
