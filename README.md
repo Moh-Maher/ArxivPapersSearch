@@ -56,7 +56,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Contact
 
-For any questions or feedback, feel free to contact me at your.email@example.com.
+For any questions or feedback, feel free to contact me at mohammed.maher@unical.it.
 ```
 
 Replace `yourusername` in the installation steps with your GitHub username. Customize the content with your project's specific details and additional acknowledgments or credits as needed.
