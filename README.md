@@ -15,7 +15,7 @@ ArXiv Papers Search is a simple Python GUI application that allows you to search
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ArxivPapersSearch.git
+git clone https://github.com/Moh-Maher/ArxivPapersSearch.git
 cd ArxivPapersSearch
 ```
 
