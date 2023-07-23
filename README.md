@@ -1,4 +1,3 @@
-```
 # ArXiv Papers Search
 
 ArXiv Papers Search is a simple Python GUI application that allows you to search for scientific papers related to a given query on the ArXiv preprint server. The application fetches the latest papers based on the query and provides relevant details such as the title, authors, abstract, publication date, DOI, and BibTeX citation for each paper.
